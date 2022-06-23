@@ -113,6 +113,8 @@ namespace Labirinto
             Console.WriteLine("PARABÉNS!!! VOCÊ CHEGOU AO FIM DO LABIRINTO!");
             Console.WriteLine("Tecle ENTER para finalizar.");
             Console.ReadKey();
+
+
         }
     }
 }
